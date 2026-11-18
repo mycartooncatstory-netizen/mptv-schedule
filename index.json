@@ -2,6 +2,13 @@
   "schema": 1,
   "weeks": [
     {
+      "weekId": "2026-11-16",
+      "file": "weeks/2026-11-16.json",
+      "effectiveFromMs": 1794999600000,
+      "generatedAt": "2026-11-18T08:08:33.624Z",
+      "logicVersion": "msx-8"
+    },
+    {
       "weekId": "2026-11-23",
       "file": "weeks/2026-11-23.json",
       "effectiveFromMs": 1795431600000,
@@ -9,5 +16,5 @@
       "logicVersion": "msx-8"
     }
   ],
-  "updatedAt": "2026-11-18T06:58:44.464Z"
+  "updatedAt": "2026-11-18T08:08:33.624Z"
 }
